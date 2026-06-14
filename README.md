@@ -1,6 +1,6 @@
-# MSA Assessoria Hospitalar
+# MMS Assessoria Hospitalar
 
-Site institucional estático da MSA Assessoria Administrativa Hospitalar.
+Site institucional estático da MMS Assessoria Administrativa Hospitalar.
 
 ## Deploy na Vercel
 
