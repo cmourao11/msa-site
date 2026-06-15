@@ -25,10 +25,10 @@ Site estático (HTML único auto-contido, deploy na Vercel). Responder em PT-BR.
   própria não precisa de autorização).
 
 ## Última alteração
-- **Camada de animação/UX profissional** nos 2 HTMLs (reveal em cascata via IntersectionObserver,
-  barra de progresso de leitura, navbar com sombra ao rolar, parallax leve no hero, press nos CTAs,
-  hover nos cards) + correção da mensagem do WhatsApp e da copy de posicionamento
-  (assessoria hospitalar → administração de clínicas e hospitais). Tudo com `prefers-reduced-motion`.
+- **Troca da foto da seção "Liderança técnica"** (asset `5100d488-...` no manifest) pela nova foto
+  da Mirian (`fotomirian.jpeg`), embutida em base64 nos 2 HTMLs. Validado por sha256.
+
+Histórico completo + lições de ouro do bundle: `docs/HISTORICO.md`.
 
 ## Pendências abertas
 - (nenhuma)
